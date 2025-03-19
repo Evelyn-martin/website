@@ -7,4 +7,4 @@ document.querySelectorAll('nav a').forEach(anchor => {
     });
 });
 
- 
+ 343
